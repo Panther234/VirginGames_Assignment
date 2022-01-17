@@ -1,0 +1,54 @@
+2022-01-16 10:01:878 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-01-16 10:01:694 INFO  HomePage :32 - verifying Homepage URL. 
+2022-01-16 10:01:746 INFO  HomePage :40 - Verify Login Link  : Login[[ChromeDriver: chrome on WINDOWS (540ff5b28be00188c77675625d8c99ab)] -> xpath: //a[contains(text(),'Login')]]
+2022-01-16 10:01:45 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-01-16 10:01:319 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-01-16 10:01:172 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-01-16 10:01:678 INFO  HomePage :32 - verifying Homepage URL. 
+2022-01-16 10:01:756 INFO  HomePage :40 - Verify Login Link  : Login[[ChromeDriver: chrome on WINDOWS (61d627394bc87e4a2758c659822218eb)] -> xpath: //a[contains(text(),'Login')]]
+2022-01-16 10:01:967 INFO  HomePage :45 - Clicking on Login Button: 
+2022-01-16 10:01:151 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-01-16 10:01:828 INFO  HomePage :32 - verifying Homepage URL. 
+2022-01-16 10:01:25 INFO  HomePage :40 - Verify Login Link  : Login[[ChromeDriver: chrome on WINDOWS (c67419f3674edc48406e442fff302a17)] -> xpath: //a[contains(text(),'Login')]]
+2022-01-16 10:01:247 INFO  HomePage :45 - Clicking on Login Button: 
+2022-01-16 10:01:385 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-01-16 10:01:612 INFO  HomePage :32 - verifying Homepage URL. 
+2022-01-16 10:01:689 INFO  HomePage :40 - Verify Login Link  : Login[[ChromeDriver: chrome on WINDOWS (ea51868a011c13e3f68589abb5276dfb)] -> xpath: //a[contains(text(),'Login')]]
+2022-01-16 10:01:880 INFO  HomePage :45 - Clicking on Login Button: 
+2022-01-16 10:01:878 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-01-16 10:01:188 INFO  HomePage :32 - verifying Homepage URL. 
+2022-01-16 10:01:257 INFO  HomePage :40 - Verify Login Link  : Login[[ChromeDriver: chrome on WINDOWS (ab7002038802bf784f707a876de7a4ae)] -> xpath: //a[contains(text(),'Login')]]
+2022-01-16 10:01:466 INFO  HomePage :45 - Clicking on Login Button: 
+2022-01-16 10:01:535 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-01-16 10:01:963 INFO  HomePage :32 - verifying Homepage URL. 
+2022-01-16 10:01:48 INFO  HomePage :40 - Verify Login Link  : Login[[ChromeDriver: chrome on WINDOWS (047179a2f0120af3a74af5d0d5035c76)] -> xpath: //a[contains(text(),'Login')]]
+2022-01-16 10:01:199 INFO  HomePage :45 - Clicking on Login Button: 
+2022-01-16 10:01:992 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-01-16 10:01:666 INFO  HomePage :32 - verifying Homepage URL. 
+2022-01-16 10:01:739 INFO  HomePage :40 - Verify Login Link  : Login[[ChromeDriver: chrome on WINDOWS (3b3a1f2e48d520bae5da088059b5a022)] -> xpath: //a[contains(text(),'Login')]]
+2022-01-16 10:01:889 INFO  HomePage :45 - Clicking on Login Button: 
+2022-01-16 11:01:72 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-01-16 11:01:778 INFO  HomePage :32 - verifying Homepage URL. 
+2022-01-16 11:01:928 INFO  HomePage :40 - Verify Login Link  : Login[[ChromeDriver: chrome on WINDOWS (ece04ba4a59731d5541d643073ac6888)] -> xpath: //a[contains(text(),'Login')]]
+2022-01-16 11:01:69 INFO  HomePage :45 - Clicking on Login Button: 
+2022-01-16 13:01:788 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-16 13:01:396 INFO  HomePage :32 - verifying Homepage URL. 
+2022-01-16 13:01:459 INFO  HomePage :40 - Verify Login Link  : Login[[ChromeDriver: chrome on WINDOWS (9fbef1953d1c6a601d4893ab6e65466a)] -> xpath: //a[contains(text(),'Login')]]
+2022-01-16 13:01:864 INFO  HomePage :45 - Clicking on Login Button: 
+2022-01-16 13:01:278 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-16 14:01:996 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-01-16 14:01:927 INFO  HomePage :32 - verifying Homepage URL. 
+2022-01-16 14:01:982 INFO  HomePage :40 - Verify Login Link  : Login[[ChromeDriver: chrome on WINDOWS (ebb196d81a4546365d3b2eeffbfdb3bf)] -> xpath: //a[contains(text(),'Login')]]
+2022-01-16 14:01:183 INFO  HomePage :45 - Clicking on Login Button: 
+2022-01-16 14:01:585 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-01-16 14:01:399 INFO  HomePage :32 - verifying Homepage URL. 
+2022-01-16 14:01:461 INFO  HomePage :40 - Verify Login Link  : Login[[ChromeDriver: chrome on WINDOWS (8e076c60dce937dfddf1344dd99f72b7)] -> xpath: //a[contains(text(),'Login')]]
+2022-01-16 14:01:642 INFO  HomePage :45 - Clicking on Login Button: 
+2022-01-16 14:01:858 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-01-16 14:01:672 INFO  HomePage :32 - verifying Homepage URL. 
+2022-01-16 14:01:728 INFO  HomePage :40 - Verify Login Link  : Login[[ChromeDriver: chrome on WINDOWS (617de9f9aba5055b1b9f4a306a741388)] -> xpath: //a[contains(text(),'Login')]]
+2022-01-16 14:01:19 INFO  HomePage :45 - Clicking on Login Button: 
+2022-01-16 14:01:168 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-01-16 14:01:604 INFO  HomePage :32 - verifying Homepage URL. 
+2022-01-16 14:01:656 INFO  HomePage :40 - Verify Login Link  : Login[[ChromeDriver: chrome on WINDOWS (8cf501e23f410fac2789824d280a6a7d)] -> xpath: //a[contains(text(),'Login')]]
+2022-01-16 14:01:861 INFO  HomePage :45 - Clicking on Login Button: 
